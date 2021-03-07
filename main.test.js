@@ -2,8 +2,34 @@
  * YOUR CODE HERE *
  ******************/
 
+let greeting = "Hello";
+let sum = 0;
+let prod = 0;
+function greet(greeting) {
+  return greeting + " ";
+}
+function sumOfTwo(sum, num) {
+  return sum + 1;
+}
+function multiply(prod, 2, 3) {
+  return prod * 2 * 3;
+}
 
+function sayHi("Good morning") {
+  return sayHi + "Daisy";
+}
 
+function returnWhatISay("str") {
+  return greeting + "!"; 
+}
+
+function divide(10, 5) {
+  return 2;
+}
+
+function remainder(10, 3) {
+  return 10 % 3;
+}
 
 /*********************************************************************************************************************
 
