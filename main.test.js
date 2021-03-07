@@ -8,26 +8,26 @@ let prod = 0;
 function greet(greeting) {
   return greeting + " ";
 }
-function sumOfTwo(sum, num) {
-  return sum + 1;
+function sumOfTwo(num1, num2) {
+  return num1 + num2;
 }
-function multiply(prod, 2, 3) {
-  return prod * 2 * 3;
+function multiply(num1, num2, num3) {
+  return prod * num * num;
 }
 
-function sayHi("Good morning") {
-  return sayHi + "Daisy";
+function sayHi(name) {
+  return sayHi + "Colin";
 }
 
 function returnWhatISay("str") {
   return greeting + "!"; 
 }
 
-function divide(10, 5) {
+function divide(num1, num2) {
   return 2;
 }
 
-function remainder(10, 3) {
+function remainder(num1, num2) {
   return 10 % 3;
 }
 
