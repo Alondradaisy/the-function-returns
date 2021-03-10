@@ -5,30 +5,30 @@
 let greeting = "Hello";
 let sum = 0;
 let prod = 0;
-function greet(greeting) {
+function greet(person) {
   return greeting + " ";
 }
 function sumOfTwo(num1, num2) {
   return num1 + num2;
 }
 function multiply(num1, num2, num3) {
-  return prod * num * num;
+  return num1 * num2 * num3;
 }
 
 function sayHi(name) {
   return sayHi + "Colin";
 }
 
-function returnWhatISay("str") {
+function returnWhatISay(str) {
   return greeting + "!"; 
 }
 
 function divide(num1, num2) {
-  return 2;
+  return num1 / num2;
 }
 
 function remainder(num1, num2) {
-  return 10 % 3;
+  return num1 % num2;
 }
 
 /*********************************************************************************************************************
